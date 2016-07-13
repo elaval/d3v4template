@@ -6,7 +6,9 @@ This is a template project with the configuration files to create a bundle for d
 
 Installation:
 
+```
 git clone ...
 cd D3V4TEMPLATE
 npm install
 rollup -c > d3bundle.js
+```
